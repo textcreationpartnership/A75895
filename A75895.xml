@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Admonition a tous les grands de la terre, aussy bien qu'au peuple par tout le monde; que leur sang soit sur leurs propres testes, s'ilz ne hastent point a se repentir.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75895</idno>
+            <idno type="STC">Wing A593</idno>
+            <idno type="STC">Thomason E848_1</idno>
+            <idno type="STC">ESTC R207318</idno>
+            <idno type="EEBO-CITATION">99866375</idno>
+            <idno type="PROQUEST">99866375</idno>
+            <idno type="VID">168216</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168216)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 128:E848[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Admonition a tous les grands de la terre, aussy bien qu'au peuple par tout le monde; que leur sang soit sur leurs propres testes, s'ilz ne hastent point a se repentir.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>pour Giles Caluert libraire, vers L'Occident de (la place improprement appelés) L'eglise St. Paul,</publisher>
+                  <pubPlace>Imprimé à Londres :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 8".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168216:1" rendition="simple:additions"/>
+            <p>ADMONITION, a tous les Grands de la TERRE, Auſsy. bien qu'au Peuple par tout le monde; que leur ſang ſoit ſur leurs pro<g ref="char:EOLhyphen"/>pres teſtes, s'ilz ne ha<g ref="char:EOLhyphen"/>ſtent point a ſe repentir.</p>
+            <p>
+               <add>July 8</add> Imprimé â <hi>Londres</hi> pour <hi>Giles Caluert</hi> Libraire, vers L'Occident de (la place improprement appelée) L'egliſe St. <hi>Paul,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168216:2"/>
+            <pb n="1" facs="tcp:168216:2"/>
+            <head>
+               <hi>Admonition,</hi> à tous les grands de la terre, auſsy bien qu'au peuple par tout le monde; que leur ſang ſoit ſur leurs propres testes, s'ilz ne hastent point à ſe repentir.</head>
+            <p>Eſcoutez la parole du Seigneur vous Roys, Roynes, Ducs, Comtes, Seigneurs et Nobles en toute la terre, la parole du Seigneur eſt à vous, et L'Eternel a con<g ref="char:EOLhyphen"/>trouerſe avec vous tous Gouuerneurs, et grands de la terre, qui auez menés, et eſtes menés d'un principe contraire a ſa lumiere, à cela en toutes vos conſciences je parle qui teſ<g ref="char:EOLhyphen"/>moignera pour moy, et contre vous tous qui auez eſte eſſeués, tu es pour la condemnation et à eſtre humilié, et toy qui con<g ref="char:EOLhyphen"/>voites le meſchant gain pour ta maiſon affin de mettre ton nid en hault et eſtre grand, tu as faict contraire à ceſte lumiere de Chriſt, et departi d'icelle, laquelle lumiere eſt de Dieu, qui auroit gardée ton intention à Dieu ſy tu l'auois aimé, partant la malediction de Dieu eſt ſortie contre toy; et icelle tu ne pourras point eſchapper. Et tous vous qui eſtes en la terre, en irritation, orgueil, convoitiſe, ambition, yurongnerie profe<g ref="char:EOLhyphen"/>rant rudes paroles, &amp; jurement, vous eſtes hors de la Doctrine de noſtre Seigneur Jeſus Chriſt, et eſtes és offenſes du monde, ainſy malediction eſt à vous et ſur vous à cauſe des vos offen<g ref="char:EOLhyphen"/>ſes, et avec la lumiere de Chriſt qui vous tous fait voir que vous ſerez condamnés qui auez veſen en ceſte nature, et l'auez eu en haine, partant à icelle prenez garde &amp; l'aimez, car elle vous a<g ref="char:EOLhyphen"/>menera en la voye, et au pere des lumieres, voicy vn docteur touſiours preſent, lequel ſy vous haiſſez il ſera voſtre con<g ref="char:EOLhyphen"/>demnation.</p>
+            <p>Et la parole du Seigneur à vous tous Roys, Roynes, Ducs, Comtes, qui auez veſcu à voſtre aiſe, en la plenitude, en convoi<g ref="char:EOLhyphen"/>tiſe; Malheur eſt à vous car vous faites contraire à la lumiere de Chriſt en vos conſciences, qui viuez en ambition orgueil et oiſiueté, à cela en vos conſciences je parle qui me teſmoignera quand le liure de conſcience eſt ouuert, et vous jugés hors d'iceluy; Malheur, eſt à vous qui eſtes eſleués et hautains, qui
+<pb n="2" facs="tcp:168216:3"/>viuez ſans crainte de Dieu, en orgueil en hauteſſe et excez, en la vanité, opiniaſtreté, és plaiſirs, és extremes, à la lumiere de Chriſt en vos conſciences je parle, laquelle ſy vous aimez, elle vous enſeignera à nier toutes ces choſes, laquelle ſy vous haiſ<g ref="char:EOLhyphen"/>ſez elle ſera voſtre condemnation.</p>
+            <p>La parole du Seigneur à vous tous qui confeſſez <hi>Moyſe,</hi> les Prophetes, Chriſt, et Dieu, et ne parlez point à Dieu face à face comme fiſt <hi>Moyſe,</hi> et les Prophetes, mais auez la forme de leurs paroles l'apparence, et la coſſe que le filz desbauché qui eſt de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>parti de Dien en a; Toute voſtre profeſſion qui eſt ſans la vie de <hi>Moyſe,</hi> ſans la vie des Prophetes, ſans la vie de Chriſt, et eſtrangers à la vie de Dieu, vous qui auez l'apparence de leurs paroles avec la vie vous ſerez tous condamnez qui auez l'appa<g ref="char:EOLhyphen"/>rence et non point la vie, mais vinez en voſtre arrogance et en<g ref="char:EOLhyphen"/>vie et n'obeiſſez point le Commandement de Dieu, mais de<g ref="char:EOLhyphen"/>ſtournez d'iceluy en vos propres volontés, Malediction eſt fur vous, malheur vous ſuiura, vous eſtes tels qui viuez en vos inventions, comme <hi>Cain,</hi> vous eſtes tels qui tuez le juſte, ſur qui eſt le malheur, vous eſtes tels qui ont faits contraires à la lumiere en voſtre conſcience, qui vous a fait voir, quand vous auez fait tort; à ceſte lumiere qui eſt en vous tous je<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parle, qui vous monſtre le peché et le mal, et auec icelle vous ſachiez tranſgreſſion et vos oeuures meſchantes, laquelle ſy vous haiſſez, elle ſera voſtre condemnation, ainſy vous haiſſez Dieu et haiſſez Chriſt.</p>
+            <p>Je ſuis la lumiere du monde et illumine tout homme venant au monde, dit Chriſt, et ſy vn chacun de vous aimez ceſte lu<g ref="char:EOLhyphen"/>miere dont vous eſtes tous illuminez, laquelle eſt la lumiere de Chriſt; vous viendrez voir le chef, avec la lumiere, et vien<g ref="char:EOLhyphen"/>drez cognoſtre Dieu le pere des lumieres, et vous enſeignera continuellement, car elle eſt touſiours preſente avec vous, elle vous ſera voir quand vous faites mal; Le Seigneur approche pour donner à vn chacun de vous le loyer ſelon vos oeuures, ſoyent qu'elles ſont bonnes que vous auez faites, ſelon la lu<g ref="char:EOLhyphen"/>miere qu'il vous a donnée, on ſoyent qu'elles ſont mauuaiſes que vous anez faites, contraires à cette lumiere qu'il vous a donnée; ainſy vous aurez voſtre loyer vn chacun de vous ſe<g ref="char:EOLhyphen"/>lon
+<pb n="3" facs="tcp:168216:3"/>vos oeuures, quoy quelles ſont bonnes ou mauuaiſes, et Dieu n'a point d'eſgard à l'apparence des perſonnes; mais la lu<g ref="char:EOLhyphen"/>miere dont vn chacun de vous eſt illuminé, que ſy vous l'aimez elle amenera vos penſées a Dieu le pere de la lumiere, et re<g ref="char:EOLhyphen"/>cueillera vos coeurs enſemble, a viure en vnité et amour l'un avec l'autre que ſy vous auez en haine ceſte lumiere, elle ſera voſtre condemnation eternelle dont les oeuures ſont meſchan<g ref="char:EOLhyphen"/>tes, et ſy vous ai mez la lumiere vous verrez que c'eſt l'oeil qui eſt ſimple, et le lis ſera veu qui n'eſt point en ſouci, et ceſte lu<g ref="char:EOLhyphen"/>miere dont vn chacun de vous en perticulier eſt illuminé, l'aimant, et prenant garde à icelle et cheminant en icelle vous aurez la lumiere de vie, &amp; il n'y aura point occaſion à trebuſ<g ref="char:EOLhyphen"/>cher, pendant que vous cheminez en la lumiere, que ſy vous auez en haine la lumiere alors vous eſtes ſcandalisés <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſcri<g ref="char:EOLhyphen"/>tures és paroles de <hi>Moyſe,</hi> és paroles des prophetes, és paroles de Chriſt, et és paroles des Apoſtres qui furent données de par la lumiere, &amp; ne pouuez point entendre que c'eſt la ſignification d'icelles; que ſy vous aimez la lnmiere et cheminez en icelle, et en icelle attendez ſur Dieu en Chriſt d'ou cette lumiere vient, alors la lumiere meſme ouurira les Eſcritures leſquelles furent données de par la lumiere; Car les prophetes de Dieu fu<g ref="char:EOLhyphen"/>rent en la lumiere et les Apoſtres, et Chriſt Jeſus, la lumiere; &amp; ilz ont tous teſmoignés l'un l'autre, et cerchoyent amener le peuple en la vie, en laquelle choſe ilz ont parlés; Et ainſy à vous tous qui vouldriez venir à cognoiſtre la vie des prophe<g ref="char:EOLhyphen"/>tes, et la vie des Apoſtres, et la vie de Chriſt, &amp; la vie de Dieu, à laquelle vous eſtes tous eſtrangers qui viuez en me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chanceté, et viuez en orgneil et ambition &amp; deſirs mondains et yurongne<g ref="char:EOLhyphen"/>rie, et mentant, et jurant, et proferant meſchantes paroles et pro<g ref="char:EOLhyphen"/>phanation; vous eſtes tels qui eſtes à condemner de la lumiere, à celà en toutes vos conſciences je parle, dont Chriſt vons a illu<g ref="char:EOLhyphen"/>minés ſy vous l'aimez, vn chacun de vous en perticulier trou<g ref="char:EOLhyphen"/>uerez voſtre Enſeigneur au dedans, qui vous enſeignera à cog<g ref="char:EOLhyphen"/>noiſtre Dieu le pere des lumieres, qui domine ſur tout au ciel et en la terre, qui maintenant eſt venu, et venant comme teſ<g ref="char:EOLhyphen"/>moin ſubit contre l'injuſtice, et toute impieté qui ont eſté faites contraires à la lumiere dont il vous a ill uminé, et tous men<g ref="char:EOLhyphen"/>teurs
+<pb n="4" facs="tcp:168216:4"/>et adulteres et paillards et ſorciers, vous vous avez exer<g ref="char:EOLhyphen"/>cés et eſtes exercés contraires à la lumiere de Dieu en vos con<g ref="char:EOLhyphen"/>ſciences, avec ceſte lumiere de Dieu vous ſerez tous condam<g ref="char:EOLhyphen"/>nés à la mort, à l'Eſtang du feu qui bruſle, car le jour du Seig<g ref="char:EOLhyphen"/>ueur apparoit, le jour fort du Seigneur s'approche; Repentez repentez, maintenant que vous auez du temps priſez-le, et à vous tous c'eſt la parole de Dieu viuant; d'eſtre fait cognue à celà en vous tous qui eſt de Dieu en vos conſciences, affin qu'un chacun de vous en perticulier puiſſez cognoiſtre voſtre condem<g ref="char:EOLhyphen"/>nation qui eſt la lumiere, dont chacun de vous eſt illuminé qui vous fera voir toutes vos oeuures meſchantes, et meſchantes paro<g ref="char:EOLhyphen"/>les et vaine converſation et vos actes injuſtes, et ainſy vous qui vous vous auez exercés et cheminés contraires à icelle, c'eſt à vous la condemnation, et ſy vous l'aimez elle eſt voſtre enſeig<g ref="char:EOLhyphen"/>neur, vn chacun en particulier, comme vous pourmenez ca, et là, comme vous couchez au lict: Cecy eſt à envoyer en <hi>Ale<g ref="char:EOLhyphen"/>magne, Hiſpagne, Italie, France, Hollande,</hi> et Pais-bas, et ainſy auoir la fuitte par tout le monde, admoneſtement à tous des jugements de Dieu qui ſont à venir ſur vous tous, qui vous vous auez exercés et eſtes exercés contraires à la lumiere dont vous eſtes illuminés, que ſy vous aimez ceſte lumiere elle vous amenera en la crainte du Seigneur, et la crainte du Seigneur garde le coeur net, et cela eſt le commencement de ſapience, et la ſapience pure de Dieu eſt d'enhaut, il vient au coeur pur ou le mal eſt deſparti; que ſy vous aimez ceſte lumiere, elle vous menera fuir le mal et tourner à Dieu le pere des lumie<g ref="char:EOLhyphen"/>res, et cela eſt entendement, adonc entendants les choſes de Dieu vous venez accroiſtre en icelles; que ſy vous aimez la lu<g ref="char:EOLhyphen"/>miere dont Chriſt vous a illuminé, la grace de Dieu vous re<g ref="char:EOLhyphen"/>ceuurez qui vous enſeignera à nier toute injuſtice et deſirs mondains, et vous qui haiſſez la lumiere changez la grace de Dieu en diſſolution, et cette lumiere eſt ce qu'endoctrine les Saincts, et vous qui haiſſez ceſte lumiere eſtes ſans crainte du Seigneur et eſtes ſans le vray entendement, et changez la grace de Dieu en diſſolution, et ainſy pourſuiuez les concu<g ref="char:EOLhyphen"/>piſcences, et auez eſté et eſtes enfans de rebellion, eſquels loge le Prince de l'air, ſur qui l'ire de Dieu demeure, et ſur qui
+<pb n="5" facs="tcp:168216:4"/>le Seigneur viendra en vengeance, et flammes de feu; et a vous tous c'eſt la parole du Seigneur qui eſtes hors de la lumie<g ref="char:EOLhyphen"/>re, et faiſants contraires à la lumiere dont vous eſtes illumi<g ref="char:EOLhyphen"/>nés.</p>
+            <p>Craignez le Seigneur vous Roys et Empereurs le Seigneur a esbranlé et esbranſle ſa main contre vous, L'eſpée du Seig<g ref="char:EOLhyphen"/>neur eſt deſgagnée à vous tous decouper, Chriſt le Seigneur eſt venu et vient à regner; ſoyez admoneſtés, à cela en vos con<g ref="char:EOLhyphen"/>ſciences je parle, qui vous fera voir voſtre orgueil voſtre haul<g ref="char:EOLhyphen"/>teſſe, ambition, Craignez l'Eternel car l'heure de ſon juge<g ref="char:EOLhyphen"/>ment s'approche ſur tous les meſchants, la terreur du Seigneur a ſortie, la trompette commence à ſonner hors de Sion, et les cheuaulx ſortent à la bataille, le jour de deſtruction s'ap<g ref="char:EOLhyphen"/>proche ſur tous les meſchants; partant craignez et tremblez deuant le Dieu tout puiſſant du ciel et de la terre, et ſoyez admoneſtés, à cela en vos conſciences je parle, ſy vous preſterez l'oreille à icelle, qui vous monſtre peché mauuaiſtié et fraude, elle vous amenera à repentance, et a craindre le Seigneur du ciel et de la terre qui eſt fort terrible aux meſchants, qui main<g ref="char:EOLhyphen"/>tenant esbranle ſon eſpée contre eulx; &amp; ſy vous aimez ceſte lumiere qui monſtre vos penſées, vous aimez Chriſt, qui a illu<g ref="char:EOLhyphen"/>minè tout homme venant au monde; ſy vous haiſſez ceſte lu<g ref="char:EOLhyphen"/>miere vous haiſſez Chriſt, et Dieu, et ceſte lumiere ſora la con<g ref="char:EOLhyphen"/>demnation de vous tous; ceſte lumiere qui vous monſtre vos ceuures meſchantes, &amp; vous redargue, dont Chriſt vous a illumi<g ref="char:EOLhyphen"/>nê, eſt voſtre Docteur ſy vous l'aimez et demeurez en icelle, &amp; elle vous enſeignera cognoiſtre le pere de lumiere, laquelle ſy vous haiſſez elle ſera voſtre condemnation, à la lumiere de Chriſt en toutes vos conſciences je parle qui me teſmoignera eternellement, et vous condamnera qui l'haiſſez, Et à vous tous ceſte eſt la parole de Dieu.</p>
+            <p>A tout le monde Gouuerneurs et Peuple, Nations, et Roy<g ref="char:EOLhyphen"/>aumes entre vous ma puiſſance ſe manifeſte, et mon eſpée eſt aguiſée dit le Seigneur, preſt à tuer, frayeur et tremblement ſai<g ref="char:EOLhyphen"/>firont les hipocrites; L'orgueilleux et hautain n'auront point de place à ſe cacher, et ceux qui s'enrichiſſent par fraude et tromperie, et mettent leur nid en hault, qu'auec tyrannie ilz
+<pb n="6" facs="tcp:168216:5"/>peuuent dominer ſur le juſte, voſtre fin le Seigneur voit, et la main de l'Eternel eſt contre vous, et voſtre cheute ſo haſte; La terre eſt pleine des ſauterelles qui mangent le verd ou il germe, mais la main de l'Eternel eſt eſtendue ſur tous ceux qui deuorent. Et vous tons qui gouuetnez conriaires a la lumiere en voſtre Conſcience; l'eſpée de l'Eternel vous ſurpendra à vous decouper, et cela en toutes vos conſciences teſmoignera l'eſpée de l'Eternel, et que tous vos faulx-Dieulx (qui ont des yeulx et ne voyent point) ne vous ſcauront point deliurer, qui vous vous auez exercés, en ceſte nature contraires à la lumiere, celà en vous; le juſte principe: Mais l'eſpée de l'Eternel, vous ſurprendra et vos Dieulx et vous decoupera enſemble: Et a vous tous ceſte eſt la parole du Seigneur, à la lumiere en toutes vos conſciences je parle qui vient de Jeſus Chriſt, qui dit je ſuis la lumiere de monde &amp; illnmine tout homme venant au monde, vn chacun de vous donnez vous garde de ceſte lumiere, voicy la croix pour auoir vos penſées gardées hors de la terre, et elle vous gardera de ne faire images taillées ny formes des croix, leſquelles choſes ſont à condamner de la lumiere, qui gardera en la croiz. Et cecy eſt à envoyer parmy toutes ſortes des gens faiſants profeſſion de la Religion, et entre toutes ſortes du peuple; à la lumiere en la conſcience d'un chacun je parle, qui vient de Chriſt Jeſus qui illumine tout homme venant au mon<g ref="char:EOLhyphen"/>de, affin qu'avec la lumiere vn chacun voyent leur Sauueur Chriſt Jeſus d'ou elle vient, que touts hommes qui font con<g ref="char:EOLhyphen"/>traires à la lumiere, deſquels les oeuures ſont mauuaiſes, voyent auec icelle leur condemnation, celà eſt la lumiere qui monſtre les oeuures meſchantes, et voicy voſtre condemnation la lumie<g ref="char:EOLhyphen"/>re, ainſy vous qui faites contraires à la lumiere pour l'eſpée eſtes comptés.</p>
+         </div>
+         <trailer>La Fin.</trailer>
+      </body>
+   </text>
+</TEI>
